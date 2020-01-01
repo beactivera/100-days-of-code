@@ -1,0 +1,17 @@
+svg{
+    width: 500px;
+    height: 500px;
+}
+path{
+    stroke-miterlimit:10;
+}
+textPath{
+    font-size: 40px;
+    width: 100%;
+}
+.triangle{
+    fill: green;
+}
+.limb{
+    fill:#654321;
+}

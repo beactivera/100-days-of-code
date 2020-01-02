@@ -14,3 +14,8 @@
 ### 1 - SVG
 https://developer.mozilla.org/en-US/docs/Web/SVG
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+
+### 2 - SVG animated
+images from : https://www.freepik.com/
+javascript animation : https://greensock.com/gsap/
+

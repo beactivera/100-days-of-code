@@ -19,3 +19,5 @@ https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 images from : https://www.freepik.com/
 javascript animation : https://greensock.com/gsap/
 
+### 3 - SVG animation
+continue work with GreenSock form day 2

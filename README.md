@@ -21,3 +21,6 @@ javascript animation : https://greensock.com/gsap/
 
 ### 3 - SVG animation
 continue work with GreenSock form day 2
+
+### 4 - SVG animation
+more advanced CSS features 

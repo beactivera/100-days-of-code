@@ -24,3 +24,5 @@ continue work with GreenSock form day 2
 
 ### 4 - SVG animation
 more advanced CSS features 
+
+### 5 - JS animation with audio and CSS transform, transition

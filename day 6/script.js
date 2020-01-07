@@ -19,7 +19,6 @@ let hint= document.querySelector('.hint p');
 let strengthLevel = document.querySelector('.blood p');
 let blood = document.querySelector('.blood div div');
 let currentBlood = blood.clientWidth; //style.width only gives percentage. OBS.clientWidth includes also padding!
-let suitcase;
 
 // game start
 closeIntro.addEventListener('click', closeI);

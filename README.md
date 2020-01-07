@@ -26,3 +26,6 @@ continue work with GreenSock form day 2
 more advanced CSS features 
 
 ### 5 - JS animation with audio and CSS transform, transition
+
+### 6 - JS animation
+advanced features with arrays, addEventListener and prepared audio and immages 

@@ -29,3 +29,6 @@ more advanced CSS features
 
 ### 6 - JS animation
 advanced features with arrays, addEventListener and prepared audio and immages 
+
+### 7 - sprite sheet
+using CSS, JS and images of the same object created simple animation which is used in games, etc.

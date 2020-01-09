@@ -32,3 +32,6 @@ advanced features with arrays, addEventListener and prepared audio and immages
 
 ### 7 - sprite sheet
 using CSS, JS and images of the same object created simple animation which is used in games, etc.
+
+### 8 - typewriter
+using functions in JS - loops build typewriter

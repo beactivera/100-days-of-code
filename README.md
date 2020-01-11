@@ -35,3 +35,7 @@ using CSS, JS and images of the same object created simple animation which is us
 
 ### 8 - typewriter
 using functions in JS - loops build typewriter
+
+### 9 - simple game - 1
+getting to know how to build basic animations using Canvas API
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations

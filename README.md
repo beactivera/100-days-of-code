@@ -39,3 +39,7 @@ using functions in JS - loops build typewriter
 ### 9 - simple game - 1
 getting to know how to build basic animations using Canvas API
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations
+
+### 10 - advanced animation - 1
+using Canvas API created ball which is animated inside box
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Advanced_animations

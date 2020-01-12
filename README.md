@@ -43,3 +43,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_anima
 ### 10 - advanced animation - 1
 using Canvas API created ball which is animated inside box
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Advanced_animations
+
+### 10 - advanced animation - 2
+using Canvas API created ball which is animated inside box
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Advanced_animations

@@ -44,14 +44,15 @@ https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_anima
 using Canvas API created ball which is animated inside box
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Advanced_animations
 
-### 10 - advanced animation - 2
+### 11 - advanced animation - 2
 using Canvas API created ball which is animated inside box
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Advanced_animations
 
+### 12 - interaction with advanced CSS
+https://codepen.io/frebliklo/pen/YeqaNB
 
 
 inspirations:
-https://codepen.io/frebliklo/pen/YeqaNB
 https://nanome.ai/
 https://www.awwwards.com/inspiration/a-gamified-web-experience
 https://codepen.io/matchboxhero/pen/RLebOY?editors=1100

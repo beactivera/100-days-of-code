@@ -50,9 +50,12 @@ https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Advanced_an
 
 ### 12 - interaction with advanced CSS - SASS
 https://codepen.io/frebliklo/pen/YeqaNB
+https://sass-lang.com/guide
 
 ### 13 - interactive menu
 https://codepen.io/bosworthco/details/RjBvgw/
+https://sass-lang.com/guide
+
 
 inspirations:
 https://nanome.ai/

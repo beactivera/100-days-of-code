@@ -56,9 +56,10 @@ https://sass-lang.com/guide
 https://codepen.io/bosworthco/details/RjBvgw/
 https://sass-lang.com/guide
 
+### 14 - animation with advanced CSS - SASS
+https://codepen.io/matchboxhero/pen/RLebOY?editors=1100
 
 inspirations:
 https://nanome.ai/
 https://www.awwwards.com/inspiration/a-gamified-web-experience
-https://codepen.io/matchboxhero/pen/RLebOY?editors=1100
 

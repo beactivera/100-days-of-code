@@ -161,3 +161,60 @@ function addClickListeners() {
     document.addEventListener("touchstart", handleEvent);
     document.addEventListener("mousedown", handleEvent);
 };
+
+// resizing cirles using canvas
+let resizeCanvas = function() {
+    cW = window.innerWidth;
+    cH = window.innerHeight;
+    c.width = cW * devicePixelRatio;
+    c.height = cH * devicePixelRatio;
+    ctx.scale(devicePixelRatio, devicePixelRatio);
+  };
+
+// interaction of the user - setting time
+function handleInactiveUser() {
+    let inactive = setTimeout(function(){
+      fauxClick(cW/2, cH/2);
+    }, 2000);
+    
+    function clearInactiveTimeout() {
+      clearTimeout(inactive);
+      document.removeEventListener("mousedown", clearInactiveTimeout);
+      document.removeEventListener("touchstart", clearInactiveTimeout);
+    }
+    
+    document.addEventListener("mousedown", clearInactiveTimeout);
+    document.addEventListener("touchstart", clearInactiveTimeout);
+}
+
+// initial function
+(function init() {
+    resizeCanvas();
+    // not sure if it needed
+    // if (window.CP) {
+    //   // CodePen's loop detection was causin' problems
+    //   // and I have no idea why, so...
+    //   window.CP.PenTimer.MAX_TIME_IN_LOOP_WO_EXIT = 6000; 
+    // }
+    // window.addEventListener("resize", resizeCanvas);
+    // addClickListeners();
+    // if (!!window.location.pathname.match(/fullcpgrid/)) {
+    //   startFauxClicking();
+    // }
+    handleInactiveUser();
+})();
+
+// not sure if it needed
+// function startFauxClicking() {
+//     setTimeout(function(){
+//       fauxClick(anime.random( cW * .2, cW * .8), anime.random(cH * .2, cH * .8));
+//       startFauxClicking();
+//     }, anime.random(200, 900));
+// }
+  
+// function fauxClick(x, y) {
+//     let fauxClick = new Event("mousedown");
+//     fauxClick.pageX = x;
+//     fauxClick.pageY = y;
+//     document.dispatchEvent(fauxClick);
+// }

@@ -62,4 +62,7 @@ https://codepen.io/matchboxhero/pen/RLebOY?editors=1100
 inspirations:
 https://nanome.ai/
 https://www.awwwards.com/inspiration/a-gamified-web-experience
+https://codepen.io/jasperlachance/pen/QNMwBg
+https://codepen.io/alexzaworski/pen/mEkvAG
+https://codepen.io/arickle/pen/XKjMZY
 

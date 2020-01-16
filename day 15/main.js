@@ -7,8 +7,21 @@ let bgColor = "#FF6138";
 let animations = [];
 let circles = [];
 
-// prototype for cirles
-Circle.prototype.draw = function() {
+// prototype for cirlce
+function extend(a, b){
+    for(let key in b) {
+      if(b.hasOwnProperty(key)) {
+        a[key] = b[key];
+      }
+    }
+    return a;
+  }
+  
+  let Circle = function(opts) {
+    extend(this, opts);
+  }
+  
+  Circle.prototype.draw = function() {
     ctx.globalAlpha = this.opacity || 1;
     ctx.beginPath();
     ctx.arc(this.x, this.y, this.r, 0, 2 * Math.PI, false);
@@ -23,22 +36,9 @@ Circle.prototype.draw = function() {
     }
     ctx.closePath();
     ctx.globalAlpha = 1;
-}
+  }
 
-function extend(a, b){
-    for(let key in b) {
-      if(b.hasOwnProperty(key)) {
-        a[key] = b[key];
-      }
-    }
-    return a;
-}
-  
-let circle = function(opts) {
-    extend(this, opts);
-}
-
-// choose colour
+// function for choosing color
 let colorPicker = (function() {
   let colors = ["#FF6138", "#FFBE53", "#2980B9", "#282741"];
   let index = 0;
@@ -55,20 +55,19 @@ let colorPicker = (function() {
   }
 })();
 
-// grab dimentions
-function calcPageFillRadius(x, y) {
-    let l = Math.max(x - 0, cW - x);
-    let h = Math.max(y - 0, cH - y);
-    return Math.sqrt(Math.pow(l, 2) + Math.pow(h, 2));
-}
-
-// removing animation
+// remove animation
 function removeAnimation(animation) {
-    let index = animations.indexOf(animation);
-    if (index > -1) animations.splice(index, 1);
+  let index = animations.indexOf(animation);
+  if (index > -1) animations.splice(index, 1);
 }
 
-// animation - creating cirles
+function calcPageFillRadius(x, y) {
+  let l = Math.max(x - 0, cW - x);
+  let h = Math.max(y - 0, cH - y);
+  return Math.sqrt(Math.pow(l, 2) + Math.pow(h, 2));
+}
+
+// animate function 
 let animate = anime({
     duration: Infinity,
     update: function() {
@@ -80,10 +79,9 @@ let animate = anime({
         });
       });
     }
-});
+  });
 
-
-// make it happend 
+// function on e.target
 function handleEvent(e) {
     if (e.touches) { 
       e.preventDefault();
@@ -158,9 +156,8 @@ function handleEvent(e) {
     animations.push(fillAnimation, rippleAnimation, particlesAnimation);
 }
 
-// add eventlisteners
+// eventlisteners
 function addClickListeners() {
     document.addEventListener("touchstart", handleEvent);
     document.addEventListener("mousedown", handleEvent);
 };
-  

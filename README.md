@@ -60,10 +60,16 @@ https://sass-lang.com/guide
 https://codepen.io/matchboxhero/pen/RLebOY?editors=1100
 
 ### 15 - animation SASS 
+https://codepen.io/alexzaworski/pen/mEkvAG
+
+### 16 - SVG Birds
+https://codepen.io/matchboxhero/pen/RLebOY
+
+### 17 - animation SASS - continued day 15
+https://codepen.io/alexzaworski/pen/mEkvAG
+
 inspirations:
 https://nanome.ai/
 https://www.awwwards.com/inspiration/a-gamified-web-experience
-https://codepen.io/jasperlachance/pen/QNMwBg
-https://codepen.io/alexzaworski/pen/mEkvAG
 https://codepen.io/arickle/pen/XKjMZY
 

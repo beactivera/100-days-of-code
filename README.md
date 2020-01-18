@@ -65,8 +65,9 @@ https://codepen.io/alexzaworski/pen/mEkvAG
 ### 16 - SVG Birds
 https://codepen.io/matchboxhero/pen/RLebOY
 
-### 17 - animation with JS
+### 17 - animation with jQuery
 https://codepen.io/arickle/pen/XKjMZY
+https://code.jquery.com/jquery-2.2.4.min.js
 
 
 ###    - continued:

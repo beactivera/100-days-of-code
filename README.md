@@ -65,11 +65,14 @@ https://codepen.io/alexzaworski/pen/mEkvAG
 ### 16 - SVG Birds
 https://codepen.io/matchboxhero/pen/RLebOY
 
-### 17 - animation SASS - continued day 15
+### 17 - animation with JS
+https://codepen.io/arickle/pen/XKjMZY
+
+
+###    - continued:
 https://codepen.io/alexzaworski/pen/mEkvAG
 
 inspirations:
 https://nanome.ai/
 https://www.awwwards.com/inspiration/a-gamified-web-experience
-https://codepen.io/arickle/pen/XKjMZY
 

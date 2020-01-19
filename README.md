@@ -69,11 +69,16 @@ https://codepen.io/matchboxhero/pen/RLebOY
 https://codepen.io/arickle/pen/XKjMZY
 https://code.jquery.com/jquery-2.2.4.min.js
 
+### 18 - calculator in React.js
+https://reactjs.org/tutorial/tutorial.html
+https://codepen.io/sdras/pen/MKXxzW
+
 
 ###    - continued:
 https://codepen.io/alexzaworski/pen/mEkvAG
 
 inspirations:
+https://react.rocks/tag/Beginner
 https://nanome.ai/
 https://www.awwwards.com/inspiration/a-gamified-web-experience
 

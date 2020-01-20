@@ -73,6 +73,9 @@ https://code.jquery.com/jquery-2.2.4.min.js
 https://reactjs.org/tutorial/tutorial.html
 https://codepen.io/sdras/pen/MKXxzW
 
+### 19 - calculator in React.js - continued - fixing bugs
+https://reactjs.org/tutorial/tutorial.html
+https://codepen.io/sdras/pen/MKXxzW
 
 ###    - continued:
 https://codepen.io/alexzaworski/pen/mEkvAG

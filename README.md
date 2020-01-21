@@ -77,10 +77,15 @@ https://codepen.io/sdras/pen/MKXxzW
 https://reactjs.org/tutorial/tutorial.html
 https://codepen.io/sdras/pen/MKXxzW
 
+### 20 - React basics
+https://reactjs.org/docs/hello-world.html
+
+
 ###    - continued:
 https://codepen.io/alexzaworski/pen/mEkvAG
 
 inspirations:
+https://reactjs.org/tutorial/tutorial.html
 https://react.rocks/tag/Beginner
 https://nanome.ai/
 https://www.awwwards.com/inspiration/a-gamified-web-experience

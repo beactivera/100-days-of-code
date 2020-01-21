@@ -79,6 +79,7 @@ https://codepen.io/sdras/pen/MKXxzW
 
 ### 20 - React basics
 https://reactjs.org/docs/hello-world.html
+https://reactjs.org/docs/add-react-to-a-website.html
 
 
 ###    - continued:
@@ -89,6 +90,4 @@ https://reactjs.org/tutorial/tutorial.html
 https://reactjs.org/docs/create-a-new-react-app.html
 https://react.rocks/tag/Beginner
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-https://nanome.ai/
-https://www.awwwards.com/inspiration/a-gamified-web-experience
 

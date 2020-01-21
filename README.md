@@ -86,7 +86,9 @@ https://codepen.io/alexzaworski/pen/mEkvAG
 
 inspirations:
 https://reactjs.org/tutorial/tutorial.html
+https://reactjs.org/docs/create-a-new-react-app.html
 https://react.rocks/tag/Beginner
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 https://nanome.ai/
 https://www.awwwards.com/inspiration/a-gamified-web-experience
 

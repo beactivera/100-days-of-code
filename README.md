@@ -81,6 +81,8 @@ https://codepen.io/sdras/pen/MKXxzW
 https://reactjs.org/docs/hello-world.html
 https://reactjs.org/docs/add-react-to-a-website.html
 
+### 21 - React with JSX
+https://reactjs.org/docs/add-react-to-a-website.html
 
 ###    - continued:
 https://codepen.io/alexzaworski/pen/mEkvAG

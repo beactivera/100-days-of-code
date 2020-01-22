@@ -83,6 +83,7 @@ https://reactjs.org/docs/add-react-to-a-website.html
 
 ### 21 - React with JSX
 https://reactjs.org/docs/add-react-to-a-website.html
+https://babeljs.io/docs/en/babel-cli/
 
 ###    - continued:
 https://codepen.io/alexzaworski/pen/mEkvAG

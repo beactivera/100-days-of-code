@@ -87,11 +87,13 @@ https://babeljs.io/docs/en/babel-cli/
 
 ### 22 - React App
 https://reactjs.org/docs/create-a-new-react-app.html
+https://create-react-app.dev/docs/getting-started
 
 ###    - continued:
 https://codepen.io/alexzaworski/pen/mEkvAG
 
 inspirations:
+https://create-react-app.dev/docs/custom-templates
 https://reactjs.org/tutorial/tutorial.html
 https://react.rocks/tag/Beginner
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript

@@ -85,12 +85,14 @@ https://reactjs.org/docs/add-react-to-a-website.html
 https://reactjs.org/docs/add-react-to-a-website.html
 https://babeljs.io/docs/en/babel-cli/
 
+### 22 - React App
+https://reactjs.org/docs/create-a-new-react-app.html
+
 ###    - continued:
 https://codepen.io/alexzaworski/pen/mEkvAG
 
 inspirations:
 https://reactjs.org/tutorial/tutorial.html
-https://reactjs.org/docs/create-a-new-react-app.html
 https://react.rocks/tag/Beginner
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 

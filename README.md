@@ -89,6 +89,22 @@ https://babeljs.io/docs/en/babel-cli/
 https://reactjs.org/docs/create-a-new-react-app.html
 https://create-react-app.dev/docs/getting-started
 
+### 23 - React Documentation
+I will spend this day on reading documentation and getting to know features of React.js
+
+### 24 - React Documentation
+
+
+### 25 - React Documentation
+
+
+### 26 - React Tutorial (?)
+
+
+
+### - React App - continued
+http://create-react-app.dev/docs/getting-started/
+
 ###    - continued:
 https://codepen.io/alexzaworski/pen/mEkvAG
 

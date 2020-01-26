@@ -93,7 +93,7 @@ https://create-react-app.dev/docs/getting-started
 I will spend this day on reading documentation and getting to know features of React.js
 
 ### 24 - React Documentation
-
+I will spend this day on reading documentation and getting to know features of React.js
 
 ### 25 - React Documentation
 

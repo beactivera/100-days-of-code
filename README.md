@@ -122,6 +122,9 @@ I will spend this day on reading documentation and getting to know features of R
 ### 33 - React Documentation
 I will spend this day on reading documentation and getting to know features of React.js
 
+### 34 - React Documentation
+I will spend this day on reading documentation and getting to know features of React.js
+
 ### - React App - continued
 http://create-react-app.dev/docs/getting-started/
 

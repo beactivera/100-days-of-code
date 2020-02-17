@@ -125,6 +125,12 @@ I will spend this day on reading documentation and getting to know features of R
 ### 34 - React Documentation
 I will spend this day on reading documentation and getting to know features of React.js
 
+
+### break
+I needed to take a break since studies and holidays. Tomorrow I will go back on track
+- finish docs with uploading files as 'test files'
+- practising, pracitsing !
+
 ### - React App - continued
 http://create-react-app.dev/docs/getting-started/
 
